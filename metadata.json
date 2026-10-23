@@ -1,0 +1,6 @@
+{
+  "name": "Studio Kreasi Aplikasi",
+  "description": "Platform pembuatan dan pengembangan aplikasi web interaktif, dashboard, alat produktivitas, dan solusi AI siap pakai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
